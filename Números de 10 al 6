@@ -1,0 +1,11 @@
+Algoritmo Mostrar_10_al_6_Mientras
+    Definir i Como Entero
+    
+    i <- 10  // Empezamos en 10
+    
+    Mientras i >= 6 Hacer  // Mientras sea mayor o igual a 6
+        Escribir i
+        i <- i - 1        // Vamos bajando de 1 en 1
+    FinMientras
+    
+FinAlgoritmo

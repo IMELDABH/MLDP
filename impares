@@ -1,0 +1,7 @@
+Algoritmo impar
+	e = 1
+	Mientras e <= 20 Hacer
+		escribir e
+		e = e + 2
+	Fin Mientras
+FinAlgoritmo
